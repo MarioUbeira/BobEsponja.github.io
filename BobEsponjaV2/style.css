@@ -158,3 +158,18 @@ aside {
 img {
   margin:1%;
 }
+footer {
+  background: radial-gradient(circle, rgba(41,187,212,0.584952731092437) 5%, rgba(0,3,236,0.6269695378151261) 35%, rgba(28,180,196,0.7362132352941176) 63%, rgba(37,151,208,1) 91%);
+}
+.yo {
+  text-align: center;
+}
+
+.inicio {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: linear-gradient(90deg, rgba(144,157,158,0.3916754201680672) 0%, rgba(144,157,158,0.6241684173669468) 40%);
+}
+h1 {
+  text-align: center;
+}
