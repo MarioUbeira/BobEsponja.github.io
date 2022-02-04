@@ -171,7 +171,7 @@ footer {
   font-size: large;
   padding-left: 10px;
   padding-right: 10px;
-  background: linear-gradient(90deg, rgba(223, 209, 11, 0.392) 0%, rgba(223, 209, 11, 0.392) 40%);
+  background: linear-gradient(90deg, rgba(51, 74, 209, 0.392) 0%, rgba(51, 74, 209, 0.392) 40%);
 }
 h1 {
   text-align: center;
