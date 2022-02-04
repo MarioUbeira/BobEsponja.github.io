@@ -1,12 +1,12 @@
 body {
   height: 900px;
-  background-image: url(../img/patronBE.png);
+  background-image: url(img/patronBE.png);
   padding: 0.2%;
 }
 
 @font-face {
   font-family: "Header";
-  src: url(../fuentes/Race\ Sport\ Free.ttf);
+  src: url(fuentes/Race\ Sport\ Free.ttf);
 }
 
 .boxshadow {
@@ -15,7 +15,7 @@ body {
 
 .header {
   padding: 40px;
-  background-image: url(../img/ola.jpg);
+  background-image: url(img/ola.jpg);
   color: rgb(107, 106, 56);
   display: flex;
   justify-content: center;
